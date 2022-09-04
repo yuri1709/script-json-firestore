@@ -1,0 +1,16 @@
+[   {
+    "id":1,
+    "pergunta": "Qual é a opção ?",
+    "opcoes": {"text":"É opção A?","key":"A"}
+    },
+    {
+    "id":2,
+    "pergunta": "Qual é a opção ?",
+    "opcoes": {"text":"É opção A?","key":"A"}
+    },
+    {
+        "id": 3,
+        "pergunta": "Deverá constar no contrato de adesão a manifestação do interesse pelo programa de certificação e adequada implementação desse sistema de gestão, assumindo o compromisso de cumprir com os requisitos estabelecidos no convênio. Pela formalização da adesão  a empresa garante que dispõe dos recursos materiais e humanos para implementar o programa de certificação.",
+        "opcoes": { "text": "É opção A?", "key": "A" }
+    }
+]

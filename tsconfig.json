@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "outDir":"./dist",
+        "module": "es2022",
+        "target":"ES2017",
+        "noEmitOnError": true,
+        "allowSyntheticDefaultImports": true,
+        "moduleResolution": "node",
+       
+        "resolveJsonModule": true
+    },
+    "include":[
+        "app"
+    ]
+}
