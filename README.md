@@ -1,5 +1,10 @@
 <h1>script-firebase</h1>
 
+<h3>Função do script:</h3>
+<ul>
+    Ler e inserir um arquivo JSON dentro do banco NoSQL - Firestore
+</ul>
+
 <h3>Changelog:</h3>
 <ul>
     <li>1- Criado um arquivo firebase-cfg.ts para armazenar a configuração do banco Firestore.</li>
