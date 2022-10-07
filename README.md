@@ -1,4 +1,4 @@
-<h1>siguala-script-firebase</h1>
+<h1>script-firebase</h1>
 
 <h3>Changelog:</h3>
 <ul>
